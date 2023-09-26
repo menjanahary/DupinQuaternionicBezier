@@ -12,6 +12,6 @@ STEP 4. Place the DupinQuaternionicBezier.gha file in that Libraries folder.
 STEP 5. Completely close both Grasshopper and Rhino fully. 
 STEP 6. Launch Rhino, then Grasshopper, you should now have a DupinQuaternionicBezier tab in Grasshopper.
 
-Remark: I myself did not try to install DupinQuaternionicBezier.gha in old versions of Rhino. 
+Remark: I myself did not try to install DupinQuaternionicBezier.gha in other versions of Rhino. 
 
-Feel free to reach out if you find any bugs, have a suggestion, or just to keep in touch at: menjanahary.jm@gmail.com   or   jean.menjanahary@mif.vu.lt
+Feel free to reach out if you find any bugs, have a suggestion, or just to keep in touch, at  jean.menjanahary@mif.vu.lt
